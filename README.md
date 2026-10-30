@@ -63,20 +63,6 @@ Explore more projects:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pavanhalapeti1613-tech&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanhalapeti1613-tech&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=pavanhalapeti1613-tech&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - Strengthening Python programming skills.
