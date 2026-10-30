@@ -3,7 +3,7 @@
 
 # Hey there, I'm Pavan 👋
 
-### Electronics & Communication Engineering Student | Python Developer | Tech Enthusiast
+### Electronics & Communication Engineering Student | Developer | Tech Enthusiast | cybersecurity Enthusiast |
 
 Building practical solutions through code, exploring cybersecurity, AI and software development.
 
@@ -16,7 +16,7 @@ Building practical solutions through code, exploring cybersecurity, AI and softw
 ## 👨‍💻 About Me
 
 - 🎓 Electronics and Communication Engineering student at Dr. Ambedkar Institute of Technology, Bangalore.
-- 💻 Interested in Python programming and software development.
+- 💻 Interested in cybersecurity and software development.
 - 🔐 Exploring Cybersecurity and secure application development.
 - 🤖 Learning Artificial Intelligence and Machine Learning.
 - 🚀 Building projects to solve real-world problems.
@@ -29,7 +29,7 @@ Building practical solutions through code, exploring cybersecurity, AI and softw
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
 ### Web Technologies
@@ -39,7 +39,7 @@ Building practical solutions through code, exploring cybersecurity, AI and softw
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
 ---
@@ -93,10 +93,10 @@ Explore more projects:
   <a href="https://github.com/pavanhalapeti1613-tech">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/pavan-halapeti">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="pavanhalapeti1613@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
