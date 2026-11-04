@@ -108,9 +108,6 @@ I enjoy exploring different areas of technology and developing practical project
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PavanHalapeti&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanHalapeti&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
